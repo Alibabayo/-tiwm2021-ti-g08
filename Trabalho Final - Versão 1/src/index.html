@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+    <header>                
+        <a href="#" class="logo">- Florest -</a>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Tipo de Florestas</a></li>
+            <li><a href="#">Serviços</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </header>
+    <section class="banner"></section>
+    <article>
+        <div class="box1">
+            <h1>O que são Florestas!</h1>
+        </div>
+        <box>
+            <a>Floresta é uma área com alta densidade de árvores.[1] Segundo dados da Organização das Nações Unidas para a Alimentação e a Agricultura, as florestas ocupavam em 2006 cerca de 4 bilhões de hectares ou aproximadamente 30% da superfície terrestre.[2] As florestas são vitais para a vida do ser humano, devido a muitos fatores principalmente de ordem climática.[3][4][2] As florestas são o ecossistema terrestre dominante da Terra e são distribuídas ao redor do globo.[5] De acordo com a definição amplamente utilizada, da Organização para a Alimentação e a Agricultura, as florestas cobriam 41 milhões de km² do globo em 1990 e 39,9 milhões de km² em 2016.</a>
+        </box>
+    </article>  
+    <script type="text/javascript">
+    window.addEventListener("scroll", function(){
+    var header = document.querySelector("header");
+    header.classList.toggle("sticky", window.scrollY > 0)
+    })
+    var i=0;
+    var images = [];
+    var time = 3000;
+
+    images[0] = 'img/background.jpg';
+    images[1] = 'img/Forest-plantations.jpg';
+
+    function changeImg(){
+      document.slide.src = images[i];
+      if(i < images.length -1 ){
+        i++;
+      } else {
+        i= 0;
+      }
+      setTimeout("changeImg()", time);
+    }
+    </script>
+</body>
+</html>
