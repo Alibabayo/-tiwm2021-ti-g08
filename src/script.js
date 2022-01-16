@@ -1,19 +1,25 @@
+//Puxar Id e o container do pagina Index
 const open = document.getElementById('open')
 const close = document.getElementById('close')
 const container = document.querySelector('.container')
 
+//Adicionar um evento no qual se o utilizador clicar, ele vai adicionar as classes "show-nav" e "show-nav"
 open.addEventListener('click', () => container.classList.add('show-nav'))
 close.addEventListener('click', () => container.classList.remove('show-nav'))
 
+//Vai associar o id "myBtn" a variavel mybutton
 var mybutton = document.getElementById("myBtn");
     
+    //Função para voltar ao top da página
     function topFunction() {
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
     }
     
+    
     window.onscroll = function() {scrollFunction()};
-
+    
+    //Irá desativar ou ativar o botão consoante a medida
     function scrollFunction() {
       if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
         mybutton.style.display = "block";
@@ -21,11 +27,11 @@ var mybutton = document.getElementById("myBtn");
         mybutton.style.display = "none";
       }
     }
-  
+  //Função PopUp do Contacto
   function popup() {
       alert('Obrigado pelo seu feedback!');
   }
-  
+  //Ao clicar no botão irá ativar a funçao popup
   document.getElementById('buttonID').onclick = popup; 
   
   //Import xml
