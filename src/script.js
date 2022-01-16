@@ -15,7 +15,13 @@ close.addEventListener('click', () => container.classList.remove('show-nav'))
         mybutton.style.display = "none";
       }
     }
-  
+      function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    
+    window.onscroll = function() {scrollFunction()};
+
   function popup() {
       alert('Obrigado pelo seu feedback!');
   }
