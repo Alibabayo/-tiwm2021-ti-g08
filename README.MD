@@ -32,19 +32,21 @@ Este projeto consiste na criação de um website informativo que tem como objeti
 
 O interface do produto mudou ao longo do desenvolvimento deste, mas depois algum tempo chegamos aos seguintes *wireframes* que nos ajudaram a obter o produto final.
 
-![alt text](./src/img/4.png)
+![alt text](./src/img/1.png)
 
-*Wireframe* da pagina contacto com a "barra" de escolha da página aberta
+*Wireframe* da página inicial
 
 ![alt text](./src/img/2.png)
 
-*Wireframe* da página inicial
+*Wireframe* da página inicial com a "barra" de escolha da página aberta
 
 ![alt text](./src/img/3.png)
 
 *Wireframe* da página de contacto
 
----
+![alt text](./src/img/4.png)
+
+*Wireframe* da pagina contacto com a "barra" de escolha da página aberta
 
 Ao clicar no link seguinte, será direcionado ao website que foi desenvolvido para este projeto.
 
@@ -87,3 +89,5 @@ Finalmente deu-nos mais treino em relação a construção de relatórios visto 
 <https://www.infoescola.com/geografia/clima-subtropical/> - consutado dia 14/01/2022
 
 <https://pt.wikipedia.org/wiki/Taiga> - consutado dia 14/01/2022
+
+
