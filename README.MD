@@ -48,9 +48,9 @@ O interface do produto mudou ao longo do desenvolvimento deste, mas depois algum
 
 *Wireframe* da pagina contacto com a "barra" de escolha da página aberta
 
-Ao clicar no link seguinte, será direcionado ao website que foi desenvolvido para este projeto.
+Ao clicar [*aqui*](https://tiwn-tipodeflorestas.netlify.app/), será direcionado ao website que foi desenvolvido para este projeto.
 
-[*Website*](https://tiwn-tipodeflorestas.netlify.app/)
+Alternativamente pode tambem colocar diretamente o link no seu Browser https://tiwn-tipodeflorestas.netlify.app/
 
 ---
 
