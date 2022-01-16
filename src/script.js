@@ -33,7 +33,17 @@ var mybutton = document.getElementById("myBtn");
   }
   //Ao clicar no botão irá ativar a funçao popup
   document.getElementById('buttonID').onclick = popup; 
-  
+
+    //Importar todas as labels do form-control
+    const labels = document.querySelectorAll('.form-control label')
+    //Por cada label, irá fazer a transicao
+    labels.forEach(label => {
+        label.innerHTML = label.innerText
+            .split('')
+            .map((letter,idx) => `<span style="transition-delay:${idx * 75}ms">${letter}</span>`)
+            .join('')
+    })  
+
   //Import xml
   var oXHR = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
 
