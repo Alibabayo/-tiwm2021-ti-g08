@@ -4,7 +4,7 @@
 ### Grupo ###
 
 - Diogo Oliveira | Nºa35271
-- Diogo Pereira | Nºa036886
+- Diogo Pereira | Nºa36886
 - João Almeida | Nºa041243
 
 ---
@@ -30,10 +30,25 @@ Este projeto consiste na criação de um website informativo que tem como objeti
 
 ## Interface ##
 
-![alt text](./src/img/1.png)
-![alt text](./src/img/2.png)
-![alt text](./src/img/3.png)
-![alt text](./src/img/4.png)
+O interface do produto mudou ao longo do desenvolvimento deste, mas depois algum tempo chegamos aos seguintes *wireframes* que nos ajudaram a obter o produto final.
+
+![alt text](src/4.png)
+
+*Wireframe* da pagina contacto com a "barra" de escolha da página aberta
+
+![alt text](src/2.png)
+
+*Wireframe* da página inicial
+
+![alt text](src/3.png)
+
+*Wireframe* da página de contacto
+
+---
+
+Ao clicar no link seguinte, será direcionado ao website que foi desenvolvido para este projeto.
+
+[*Website*](inserir link do site)
 
 ---
 
@@ -41,6 +56,7 @@ Este projeto consiste na criação de um website informativo que tem como objeti
 
 O produto final, é composto por seis páginas estáticas de **HTML** (página inicial, quatro páginas para cada tipo de floresta referida e uma página para o utilizador entrar em contacto com o grupo). Ao entrar no site, será apresentada a página inicial, que tem o propósito de introduzir o tema falado neste trabalho, para isso, esta página contém conteudo sobre as florestas, uma lista dos diferentes tipos de floresta e uma tabela com uma pequena compação entre os diferentes tipos.
 Ao clicar o botão, que se encontra no canto superior esquerdo do ecrã, será mostrado o nome das diferentes páginas (Home, Floresta Boreal, Floresta Tropical, Floresta Temperada, Floresta Subtropical e contacto). O utilizador, ao clicar nos nomes das páginas será direcionado para a página escolhida, onde estará presente informação sobre os diferentes tipos de floresta, no caso do utilizador selecionar a página do contacto, ele será direcionado para uma página onde poderá deixar o seu nome, email e uma mensagem. Nas diferentes páginas, também está presente ao longo da navegação um botão que, ao clicar, irá dirigir o utilizador para o início da página onde se encontra.
+Para a formatação do **HTML** foi usado **CSS** e foi usado **javascript** para animar certas partes do *website*.
 
 ---
 
@@ -52,6 +68,22 @@ Em relação á validação do código, este foi passado no validador do  **W3C*
 
 ## Conclusão e Discusão  ##
 
+Com este Projeto feito, podemos dizer que ele foi bastante beneficial para nós os três, pois podemos aprofundar os nossos conhecimentos na área de informática e trabalhar as nossas habilidades de desenvolvedores de websites onde aprendemos maneiras de mostrar dados e informações estáticas.
+Também deu para trabalhar um bocado no nosso trabalho de pesquisa e trabalho em equipa porque tivemos que analisar artigos e perceber neles a informação lá escrita e qual seria relevante para este nosso trabalho.
+Finalmente deu-nos mais treino em relação a construção de relatórios visto que é muito útil para a faculdade como também para futuros empregos.
+
 ---
 
 ## Referências ##
+
+<https://pt.wikipedia.org/wiki/Floresta_temperada> - consutado dia 14/01/2022
+
+<https://www.todamateria.com.br/floresta-temperada/> - consutado dia 14/01/2022
+
+<https://pt.wikipedia.org/wiki/Floresta_tropical_e_subtropical_h%C3%BAmida> - consutado dia 14/01/2022
+
+<https://www.infoescola.com/biomas/floresta-tropical/> - consutado dia 14/01/2022
+
+<https://www.infoescola.com/geografia/clima-subtropical/> - consutado dia 14/01/2022
+
+<https://pt.wikipedia.org/wiki/Taiga> - consutado dia 14/01/2022
