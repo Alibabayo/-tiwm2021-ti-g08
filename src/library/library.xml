@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!--  Last edited by http://encodedna.com  -->
+<Library>
+	<List>
+		<id>1</id>
+		<tipodefloresta>Floresta Boreal</tipodefloresta>
+		<clima>Clima subártico, com temperaturas entre -54ºC e 21ºC</clima>
+		<flora>Abetos, pinheiros, Lárice</flora>
+		<Fauna>Bromélias, begônias, orquídeas, cipós e briófitas</Fauna>
+	</List>
+	<List>
+		<id>2</id>
+		<tipodefloresta>Floresta Boreal</tipodefloresta>
+		<clima>Clima subártico, com temperaturas entre -54ºC e 21ºC</clima>
+		<flora>Abetos, pinheiros, Lárice</flora>
+		<Fauna>Cobras, anfíbios e aves</Fauna>
+	</List>
+	<List>
+		<id>3</id>
+		<tipodefloresta>Floresta Temperada</tipodefloresta>
+		<clima>Quatro estações são bem definidas</clima>
+		<flora>Bordos, carvalhos, castanheiros, faias e ulmeiros</flora>
+		<Fauna>Javalis, gatos bravos, linces, etc</Fauna>
+	</List>
+	<List>
+		<id>4</id>
+		<tipodefloresta>Floresta Subtropical</tipodefloresta>
+		<clima>	Temperatura média anual inferior a 18ºC</clima>
+		<flora>Bromélias, begônias, orquídeas, cipós e briófitas</flora>
+		<Fauna>Cobras, anfíbios e aves</Fauna>
+	</List>
+</Library>
