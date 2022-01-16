@@ -32,15 +32,15 @@ Este projeto consiste na criação de um website informativo que tem como objeti
 
 O interface do produto mudou ao longo do desenvolvimento deste, mas depois algum tempo chegamos aos seguintes *wireframes* que nos ajudaram a obter o produto final.
 
-![alt text](src/4.png)
+![alt text](./src/img/4.png)
 
 *Wireframe* da pagina contacto com a "barra" de escolha da página aberta
 
-![alt text](src/2.png)
+![alt text](./src/img/2.png)
 
 *Wireframe* da página inicial
 
-![alt text](src/3.png)
+![alt text](./src/img/3.png)
 
 *Wireframe* da página de contacto
 
