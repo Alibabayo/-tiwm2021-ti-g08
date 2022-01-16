@@ -136,22 +136,23 @@ nav ul li {
 }
 
 .content2 h1 {  
-  padding-bottom: 2ch;
+  padding-bottom: 1ch;
   margin: 0;
   color: #fff;
-  font-size: 5rem;
+  font-size:calc(12px + 5.5vw);
   text-align: center;
 }
 .content h1 {
   padding-bottom: 2ch;
   margin: 0;
-  font-size: 5rem;
+  font-size:calc(12px + 5.5vw);
   text-align: center;
 }
 
 .content h3 {
   margin: 0;
   text-align: center;
+  font-size:calc(12px + 1.5vw);
 }
 
 .content small {
@@ -232,6 +233,7 @@ form{
   border-radius: 50px;
   color: #fff;
   font-size: large;
+  margin-top: 5vh;
 }
 
 .btn:focus {
@@ -260,3 +262,14 @@ form{
 .myBtn:hover {
   background-color: #555;
 }
+
+.content table{
+  border-style: solid;
+  display: block;
+  padding: 2.5vh;
+}
+@media only screen and (max-width: 600px) {
+  
+.content table tr th,.content table tr td{
+  display:inline-block;
+}}
