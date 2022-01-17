@@ -78,16 +78,16 @@ Finalmente deu-nos mais treino em relação a construção de relatórios visto 
 
 ## Referências ##
 
-<https://pt.wikipedia.org/wiki/Floresta_temperada> - consutado dia 14/01/2022
+<https://pt.wikipedia.org/wiki/Floresta_temperada> - consultado dia 14/01/2022
 
-<https://www.todamateria.com.br/floresta-temperada/> - consutado dia 14/01/2022
+<https://www.todamateria.com.br/floresta-temperada/> - consultado dia 14/01/2022
 
-<https://pt.wikipedia.org/wiki/Floresta_tropical_e_subtropical_h%C3%BAmida> - consutado dia 14/01/2022
+<https://pt.wikipedia.org/wiki/Floresta_tropical_e_subtropical_h%C3%BAmida> - consultado dia 14/01/2022
 
-<https://www.infoescola.com/biomas/floresta-tropical/> - consutado dia 14/01/2022
+<https://www.infoescola.com/biomas/floresta-tropical/> - consultado dia 14/01/2022
 
-<https://www.infoescola.com/geografia/clima-subtropical/> - consutado dia 14/01/2022
+<https://www.infoescola.com/geografia/clima-subtropical/> - consultado dia 14/01/2022
 
-<https://pt.wikipedia.org/wiki/Taiga> - consutado dia 14/01/2022
+<https://pt.wikipedia.org/wiki/Taiga> - consultado dia 14/01/2022
 
 
